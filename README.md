@@ -1,1 +1,1 @@
-# new-project IM A GOD
+# Новый проект для теста Git
