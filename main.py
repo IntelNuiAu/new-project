@@ -1,7 +1,4 @@
-print('hello world')
+def home():
+    print(f'hello')
 
-
-
-
-name = input('Как вас зовут? ')
-print(f'Привет {name}')
+home()
