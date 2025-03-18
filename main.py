@@ -1,7 +1,1 @@
-<<<<<<< Updated upstream
-print('text2')
-print('lolik')
-
-=======
-print(f'lol')
->>>>>>> Stashed changes
+print(f'main banch')
