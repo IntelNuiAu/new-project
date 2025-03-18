@@ -1,7 +1,2 @@
 print('hello world')
-
-
-
-
-name = input('Как вас зовут? ')
-print(f'Привет {name}')
+print('Это изменинение доступно для new-branch')
